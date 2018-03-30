@@ -1,0 +1,319 @@
+language,editorCode,crowdinLanguageCode
+Acholi,ach,ach
+Afar,aa,aa
+Afrikaans,af,af
+Akan,ak,ak
+"Akan, Twi",tw,tw
+Albanian,sq,sq
+Amharic,am,am
+Arabic,ar,ar
+"Arabic, Bahrain",arbh,ar-BH
+"Arabic, Egypt",areg,ar-EG
+"Arabic, Saudi Arabia",arsa,ar-SA
+"Arabic, Yemen",arye,ar-YE
+Aragonese,an,an
+Armenian,hy,hy-AM
+Arpitan,frp,frp
+Assamese,as,as
+Asturian,ast,ast
+Atayal,tay,tay
+Avaric,av,av
+Avestan,ae,ae
+Aymara,ay,ay
+Azerbaijani,az,az
+Balinese,ban,ban
+Balochi,bal,bal
+Bambara,bm,bm
+Bashkir,ba,ba
+Basque,eu,eu
+Belarusian,be,be
+Bengali,bn,bn
+"Bengali, India",bnin,bn-IN
+Berber,ber,ber
+Bihari,bh,bh
+Birifor,bfo,bfo
+Bislama,bi,bi
+Bosnian,bs,bs
+Breton,brfr,br-FR
+Bulgarian,bg,bg
+Burmese,my,my
+Catalan,ca,ca
+Cebuano,ceb,ceb
+Chamorro,ch,ch
+Chechen,ce,ce
+Cherokee,chr,chr
+Chewa,ny,ny
+Chinese Simplified,zhcn,zh-CN
+Chinese Traditional,zhtw,zh-TW
+"Chinese Traditional, Hong Kong",zhhk,zh-HK
+"Chinese Traditional, Macau",zhmo,zh-MO
+"Chinese Traditional, Singapore",zhsg,zh-SG
+Chuvash,cv,cv
+Cornish,kw,kw
+Corsican,co,co
+Cree,cr,cr
+Croatian,hr,hr
+Czech,cs,cs
+Danish,da,da
+Dari,faaf,fa-AF
+Dhivehi,dv,dv
+Dutch,nl,nl
+"Dutch, Belgium",nlbe,nl-BE
+"Dutch, Suriname",nlsr,nl-SR
+Dzongkha,dz,dz
+English,en,en
+English (upside down),enud,en-UD
+English German,ende,ende
+"English, Arabia",enar,en-AR
+"English, Australia",enau,en-AU
+"English, Belize",enbz,en-BZ
+"English, Canada",enca,en-CA
+"English, Caribbean",encb,en-CB
+"English, China",encn,en-CN
+"English, Denmark",endk,en-DK
+"English, Hong Kong",enhk,en-HK
+"English, India",enin,en-IN
+"English, Indonesia",enid,en-ID
+"English, Ireland",enie,en-IE
+"English, Jamaica",enjm,en-JM
+"English, Japan",enja,en-JA
+"English, Malaysia",enmy,en-MY
+"English, New Zealand",ennz,en-NZ
+"English, Norway",enno,en-NO
+"English, Philippines",enph,en-PH
+"English, Puerto Rico",enpr,en-PR
+"English, Singapore",ensg,en-SG
+"English, South Africa",enza,en-ZA
+"English, Sweden",ense,en-SE
+"English, United Kingdom",engb,en-GB
+"English, United States",enus,en-US
+"English, Zimbabwe",enzw,en-ZW
+Esperanto,eo,eo
+Estonian,et,et
+Ewe,ee,ee
+Faroese,fo,fo
+Fijian,fj,fj
+Filipino,fil,fil
+Finnish,fi,fi
+Flemish,vlsbe,vls-BE
+Franconian,frade,fra-DE
+French,fr,fr
+"French, Belgium",frbe,fr-BE
+"French, Canada",frca,fr-CA
+"French, Luxembourg",frlu,fr-LU
+"French, Quebec",frqc,fr-QC
+"French, Switzerland",frch,fr-CH
+Frisian,fy,fy-NL
+Friulian,furit,fur-IT
+Fula,ff,ff
+Ga,gaa,gaa
+Galician,gl,gl
+Georgian,ka,ka
+German,de,de
+"German, Austria",deat,de-AT
+"German, Belgium",debe,de-BE
+"German, Liechtenstein",deli,de-LI
+"German, Luxembourg",delu,de-LU
+"German, Switzerland",dech,de-CH
+GitHub Language,engit,en-git
+Gothic,got,got
+Greek,el,el
+"Greek, Cyprus",elcy,el-CY
+Greenlandic,kl,kl
+Guarani,gn,gn
+Gujarati,gu,gu-IN
+Haitian Creole,ht,ht
+Hausa,ha,ha
+Hawaiian,haw,haw
+Hebrew,he,he
+Herero,hz,hz
+Hiligaynon,hil,hil
+Hindi,hi,hi
+Hiri Motu,ho,ho
+Hmong,hmn,hmn
+Hungarian,hu,hu
+Icelandic,is,is
+Ido,ido,ido
+Igbo,ig,ig
+Ilokano,ilo,ilo
+Indonesian,id,id
+Inuktitut,iu,iu
+Irish,ga,ga-IE
+Italian,it,it
+"Italian, Switzerland",itch,it-CH
+Japanese,ja,ja
+Javanese,jv,jv
+K'iche',quc,quc
+Kabyle,kab,kab
+Kannada,kn,kn
+Kapampangan,pam,pam
+Kashmiri,ks,ks
+"Kashmiri, Pakistan",kspk,ks-PK
+Kashubian,csb,csb
+Kazakh,kk,kk
+Khmer,km,km
+Kinyarwanda,rw,rw
+Klingon,tlhaa,tlh-AA
+Komi,kv,kv
+Kongo,kg,kg
+Konkani,kok,kok
+Korean,ko,ko
+Kurdish,ku,ku
+Kurmanji (Kurdish),kmr,kmr
+Kwanyama,kj,kj
+Kyrgyz,ky,ky
+Lao,lo,lol
+Latin,lala,lo
+Latvian,lv,la-LA
+Ligurian,lij,lv
+Limburgish,li,lij
+Lingala,ln,li
+Lithuanian,lt,ln
+Lojban,jbo,lt
+LOLCAT,lol,jbo
+Low German,nds,nds
+Lower Sorbian,dsbde,dsb-DE
+Luganda,lg,lg
+Luhya,luy,luy
+Luxembourgish,lb,lb
+Macedonian,mk,mk
+Maithili,mai,mai
+Malagasy,mg,mg
+Malay,ms,ms
+"Malay, Brunei",msbn,ms-BN
+Malayalam,mlin,ml-IN
+Maltese,mt,mt
+Manx,gv,gv
+Maori,mi,mi
+Mapudungun,arn,arn
+Marathi,mr,mr
+Marshallese,mh,mh
+Mohawk,moh,moh
+Mongolian,mn,mn
+Montenegrin (Cyrillic),srcyrlme,sr-Cyrl-ME
+Montenegrin (Latin),me,me
+Mossi,mos,mos
+Nauru,na,na
+Ndonga,ng,ng
+Nepali,nenp,ne-NP
+"Nepali, India",nein,ne-IN
+Nigerian Pidgin,pcm,pcm
+Northern Sami,se,se
+Northern Sotho,nso,nso
+Norwegian,no,no
+Norwegian Bokmal,nb,nb
+Norwegian Nynorsk,nnno,nn-NO
+Occitan,oc,oc
+Ojibwe,oj,oj
+Oriya,or,or
+Oromo,om,om
+Ossetian,os,os
+Pali,pi,pi
+Papiamento,pap,pap
+Pashto,ps,ps
+Persian,fa,fa
+Pirate English,enpt,en-PT
+Polish,pl,pl
+Portuguese,pt,pt-PT
+"Portuguese, Brazilian",ptbr,pt-BR
+Punjabi,pain,pa-IN
+"Punjabi, Pakistan",papk,pa-PK
+Quechua,qu,qu
+Quenya,qyaaa,qya-AA
+Romanian,ro,ro
+Romansh,rmch,rm-CH
+Rundi,rn,rn
+Russian,ru,ru
+Russian (Proofreading),rupr,ru-pr
+"Russian, Belarus",ruby,ru-BY
+"Russian, Moldova",rumd,ru-MD
+"Russian, Ukraine",ruua,ru-UA
+Rusyn,ryua,ry-UA
+Sakha,sah,sah
+Sango,sg,sg
+Sanskrit,sa,sa
+Santali,sat,sat
+Sardinian,sc,sc
+Scots,sco,sco
+Scottish Gaelic,gd,gd
+Serbian (Cyrillic),sr,sr
+Serbian (Latin),srcs,sr-CS
+Serbo-Croatian,sh,sh
+Seychellois Creole,crs,crs
+Shona,sn,sn
+Sichuan Yi,ii,ii
+Sindhi,sd,sd
+Sinhala,silk,si-LK
+Slovak,sk,sk
+Slovenian,sl,sl
+Somali,so,so
+Songhay,son,son
+Sorani (Kurdish),ckb,ckb
+Southern Ndebele,nr,nr
+Southern Sami,sma,sma
+Southern Sotho,st,st
+Spanish,es,es-ES
+Spanish (Modern),esem,es-EM
+"Spanish, Argentina",esar,es-AR
+"Spanish, Bolivia",esbo,es-BO
+"Spanish, Chile",escl,es-CL
+"Spanish, Colombia",esco,es-CO
+"Spanish, Costa Rica",escr,es-CR
+"Spanish, Cuba",escu,es-cu
+"Spanish, Dominican Republic",esdo,es-DO
+"Spanish, Ecuador",esec,es-EC
+"Spanish, El Salvador",essv,es-SV
+"Spanish, Guatemala",esgt,es-GT
+"Spanish, Honduras",eshn,es-HN
+"Spanish, Mexico",esmx,es-MX
+"Spanish, Nicaragua",esni,es-NI
+"Spanish, Panama",espa,es-PA
+"Spanish, Paraguay",espy,es-PY
+"Spanish, Peru",espe,es-PE
+"Spanish, Puerto Rico",espr,es-PR
+"Spanish, United States",esus,es-US
+"Spanish, Uruguay",esuy,es-UY
+"Spanish, Venezuela",esve,es-VE
+Sundanese,su,su
+Swahili,sw,sw
+"Swahili, Kenya",swke,sw-KE
+"Swahili, Tanzania",swtz,sw-TZ
+Swati,ss,ss
+Swedish,sv,sv-SE
+Swedish (Unofficial),svun,svun
+"Swedish, Finland",svfi,sv-FI
+Syriac,syc,syc
+Tagalog,tl,tl
+Tahitian,ty,ty
+Tajik,tg,tg
+Talossan,tzl,tzl
+Tamil,ta,ta
+Tatar,ttru,tt-RU
+Telugu,te,te
+Tem (Kotokoli),kdh,kdh
+Thai,th,th
+Tibetan,bobt,bo-BT
+Tigrinya,ti,ti
+Tsonga,ts,ts
+Tswana,tn,tn
+Turkish,tr,tr
+"Turkish, Cyprus",trcy,tr-CY
+Turkmen,tk,tk
+Ukrainian,uk,uk
+Upper Sorbian,hsbde,hsb-DE
+Urdu (India),urin,ur-IN
+Urdu (Pakistan),urpk,ur-PK
+Uyghur,ug,ug
+Uzbek,uz,uz
+Valencian,vales,val-ES
+Venda,ve,ve
+Venetian,vec,vec
+Vietnamese,vi,vi
+Walloon,wa,wa
+Welsh,cy,cy
+Wolof,wo,wo
+Xhosa,xh,xh
+Yiddish,yi,yi
+Yoruba,yo,yo
+Zeelandic,zea,zea
+Zulu,zu,zu

@@ -1,0 +1,1592 @@
+{
+  "ach": {
+    "language": "Acholi",
+    "editorCode": "ach",
+    "crowdinLanguageCode": "ach"
+  },
+  "aa": {
+    "language": "Afar",
+    "editorCode": "aa",
+    "crowdinLanguageCode": "aa"
+  },
+  "af": {
+    "language": "Afrikaans",
+    "editorCode": "af",
+    "crowdinLanguageCode": "af"
+  },
+  "ak": {
+    "language": "Akan",
+    "editorCode": "ak",
+    "crowdinLanguageCode": "ak"
+  },
+  "tw": {
+    "language": "Akan, Twi",
+    "editorCode": "tw",
+    "crowdinLanguageCode": "tw"
+  },
+  "sq": {
+    "language": "Albanian",
+    "editorCode": "sq",
+    "crowdinLanguageCode": "sq"
+  },
+  "am": {
+    "language": "Amharic",
+    "editorCode": "am",
+    "crowdinLanguageCode": "am"
+  },
+  "ar": {
+    "language": "Arabic",
+    "editorCode": "ar",
+    "crowdinLanguageCode": "ar"
+  },
+  "ar-BH": {
+    "language": "Arabic, Bahrain",
+    "editorCode": "arbh",
+    "crowdinLanguageCode": "ar-BH"
+  },
+  "ar-EG": {
+    "language": "Arabic, Egypt",
+    "editorCode": "areg",
+    "crowdinLanguageCode": "ar-EG"
+  },
+  "ar-SA": {
+    "language": "Arabic, Saudi Arabia",
+    "editorCode": "arsa",
+    "crowdinLanguageCode": "ar-SA"
+  },
+  "ar-YE": {
+    "language": "Arabic, Yemen",
+    "editorCode": "arye",
+    "crowdinLanguageCode": "ar-YE"
+  },
+  "an": {
+    "language": "Aragonese",
+    "editorCode": "an",
+    "crowdinLanguageCode": "an"
+  },
+  "hy-AM": {
+    "language": "Armenian",
+    "editorCode": "hy",
+    "crowdinLanguageCode": "hy-AM"
+  },
+  "frp": {
+    "language": "Arpitan",
+    "editorCode": "frp",
+    "crowdinLanguageCode": "frp"
+  },
+  "as": {
+    "language": "Assamese",
+    "editorCode": "as",
+    "crowdinLanguageCode": "as"
+  },
+  "ast": {
+    "language": "Asturian",
+    "editorCode": "ast",
+    "crowdinLanguageCode": "ast"
+  },
+  "tay": {
+    "language": "Atayal",
+    "editorCode": "tay",
+    "crowdinLanguageCode": "tay"
+  },
+  "av": {
+    "language": "Avaric",
+    "editorCode": "av",
+    "crowdinLanguageCode": "av"
+  },
+  "ae": {
+    "language": "Avestan",
+    "editorCode": "ae",
+    "crowdinLanguageCode": "ae"
+  },
+  "ay": {
+    "language": "Aymara",
+    "editorCode": "ay",
+    "crowdinLanguageCode": "ay"
+  },
+  "az": {
+    "language": "Azerbaijani",
+    "editorCode": "az",
+    "crowdinLanguageCode": "az"
+  },
+  "ban": {
+    "language": "Balinese",
+    "editorCode": "ban",
+    "crowdinLanguageCode": "ban"
+  },
+  "bal": {
+    "language": "Balochi",
+    "editorCode": "bal",
+    "crowdinLanguageCode": "bal"
+  },
+  "bm": {
+    "language": "Bambara",
+    "editorCode": "bm",
+    "crowdinLanguageCode": "bm"
+  },
+  "ba": {
+    "language": "Bashkir",
+    "editorCode": "ba",
+    "crowdinLanguageCode": "ba"
+  },
+  "eu": {
+    "language": "Basque",
+    "editorCode": "eu",
+    "crowdinLanguageCode": "eu"
+  },
+  "be": {
+    "language": "Belarusian",
+    "editorCode": "be",
+    "crowdinLanguageCode": "be"
+  },
+  "bn": {
+    "language": "Bengali",
+    "editorCode": "bn",
+    "crowdinLanguageCode": "bn"
+  },
+  "bn-IN": {
+    "language": "Bengali, India",
+    "editorCode": "bnin",
+    "crowdinLanguageCode": "bn-IN"
+  },
+  "ber": {
+    "language": "Berber",
+    "editorCode": "ber",
+    "crowdinLanguageCode": "ber"
+  },
+  "bh": {
+    "language": "Bihari",
+    "editorCode": "bh",
+    "crowdinLanguageCode": "bh"
+  },
+  "bfo": {
+    "language": "Birifor",
+    "editorCode": "bfo",
+    "crowdinLanguageCode": "bfo"
+  },
+  "bi": {
+    "language": "Bislama",
+    "editorCode": "bi",
+    "crowdinLanguageCode": "bi"
+  },
+  "bs": {
+    "language": "Bosnian",
+    "editorCode": "bs",
+    "crowdinLanguageCode": "bs"
+  },
+  "br-FR": {
+    "language": "Breton",
+    "editorCode": "brfr",
+    "crowdinLanguageCode": "br-FR"
+  },
+  "bg": {
+    "language": "Bulgarian",
+    "editorCode": "bg",
+    "crowdinLanguageCode": "bg"
+  },
+  "my": {
+    "language": "Burmese",
+    "editorCode": "my",
+    "crowdinLanguageCode": "my"
+  },
+  "ca": {
+    "language": "Catalan",
+    "editorCode": "ca",
+    "crowdinLanguageCode": "ca"
+  },
+  "ceb": {
+    "language": "Cebuano",
+    "editorCode": "ceb",
+    "crowdinLanguageCode": "ceb"
+  },
+  "ch": {
+    "language": "Chamorro",
+    "editorCode": "ch",
+    "crowdinLanguageCode": "ch"
+  },
+  "ce": {
+    "language": "Chechen",
+    "editorCode": "ce",
+    "crowdinLanguageCode": "ce"
+  },
+  "chr": {
+    "language": "Cherokee",
+    "editorCode": "chr",
+    "crowdinLanguageCode": "chr"
+  },
+  "ny": {
+    "language": "Chewa",
+    "editorCode": "ny",
+    "crowdinLanguageCode": "ny"
+  },
+  "zh-CN": {
+    "language": "Chinese Simplified",
+    "editorCode": "zhcn",
+    "crowdinLanguageCode": "zh-CN"
+  },
+  "zh-TW": {
+    "language": "Chinese Traditional",
+    "editorCode": "zhtw",
+    "crowdinLanguageCode": "zh-TW"
+  },
+  "zh-HK": {
+    "language": "Chinese Traditional, Hong Kong",
+    "editorCode": "zhhk",
+    "crowdinLanguageCode": "zh-HK"
+  },
+  "zh-MO": {
+    "language": "Chinese Traditional, Macau",
+    "editorCode": "zhmo",
+    "crowdinLanguageCode": "zh-MO"
+  },
+  "zh-SG": {
+    "language": "Chinese Traditional, Singapore",
+    "editorCode": "zhsg",
+    "crowdinLanguageCode": "zh-SG"
+  },
+  "cv": {
+    "language": "Chuvash",
+    "editorCode": "cv",
+    "crowdinLanguageCode": "cv"
+  },
+  "kw": {
+    "language": "Cornish",
+    "editorCode": "kw",
+    "crowdinLanguageCode": "kw"
+  },
+  "co": {
+    "language": "Corsican",
+    "editorCode": "co",
+    "crowdinLanguageCode": "co"
+  },
+  "cr": {
+    "language": "Cree",
+    "editorCode": "cr",
+    "crowdinLanguageCode": "cr"
+  },
+  "hr": {
+    "language": "Croatian",
+    "editorCode": "hr",
+    "crowdinLanguageCode": "hr"
+  },
+  "cs": {
+    "language": "Czech",
+    "editorCode": "cs",
+    "crowdinLanguageCode": "cs"
+  },
+  "da": {
+    "language": "Danish",
+    "editorCode": "da",
+    "crowdinLanguageCode": "da"
+  },
+  "fa-AF": {
+    "language": "Dari",
+    "editorCode": "faaf",
+    "crowdinLanguageCode": "fa-AF"
+  },
+  "dv": {
+    "language": "Dhivehi",
+    "editorCode": "dv",
+    "crowdinLanguageCode": "dv"
+  },
+  "nl": {
+    "language": "Dutch",
+    "editorCode": "nl",
+    "crowdinLanguageCode": "nl"
+  },
+  "nl-BE": {
+    "language": "Dutch, Belgium",
+    "editorCode": "nlbe",
+    "crowdinLanguageCode": "nl-BE"
+  },
+  "nl-SR": {
+    "language": "Dutch, Suriname",
+    "editorCode": "nlsr",
+    "crowdinLanguageCode": "nl-SR"
+  },
+  "dz": {
+    "language": "Dzongkha",
+    "editorCode": "dz",
+    "crowdinLanguageCode": "dz"
+  },
+  "en": {
+    "language": "English",
+    "editorCode": "en",
+    "crowdinLanguageCode": "en"
+  },
+  "en-UD": {
+    "language": "English (upside down)",
+    "editorCode": "enud",
+    "crowdinLanguageCode": "en-UD"
+  },
+  "ende": {
+    "language": "English German",
+    "editorCode": "ende",
+    "crowdinLanguageCode": "ende"
+  },
+  "en-AR": {
+    "language": "English, Arabia",
+    "editorCode": "enar",
+    "crowdinLanguageCode": "en-AR"
+  },
+  "en-AU": {
+    "language": "English, Australia",
+    "editorCode": "enau",
+    "crowdinLanguageCode": "en-AU"
+  },
+  "en-BZ": {
+    "language": "English, Belize",
+    "editorCode": "enbz",
+    "crowdinLanguageCode": "en-BZ"
+  },
+  "en-CA": {
+    "language": "English, Canada",
+    "editorCode": "enca",
+    "crowdinLanguageCode": "en-CA"
+  },
+  "en-CB": {
+    "language": "English, Caribbean",
+    "editorCode": "encb",
+    "crowdinLanguageCode": "en-CB"
+  },
+  "en-CN": {
+    "language": "English, China",
+    "editorCode": "encn",
+    "crowdinLanguageCode": "en-CN"
+  },
+  "en-DK": {
+    "language": "English, Denmark",
+    "editorCode": "endk",
+    "crowdinLanguageCode": "en-DK"
+  },
+  "en-HK": {
+    "language": "English, Hong Kong",
+    "editorCode": "enhk",
+    "crowdinLanguageCode": "en-HK"
+  },
+  "en-IN": {
+    "language": "English, India",
+    "editorCode": "enin",
+    "crowdinLanguageCode": "en-IN"
+  },
+  "en-ID": {
+    "language": "English, Indonesia",
+    "editorCode": "enid",
+    "crowdinLanguageCode": "en-ID"
+  },
+  "en-IE": {
+    "language": "English, Ireland",
+    "editorCode": "enie",
+    "crowdinLanguageCode": "en-IE"
+  },
+  "en-JM": {
+    "language": "English, Jamaica",
+    "editorCode": "enjm",
+    "crowdinLanguageCode": "en-JM"
+  },
+  "en-JA": {
+    "language": "English, Japan",
+    "editorCode": "enja",
+    "crowdinLanguageCode": "en-JA"
+  },
+  "en-MY": {
+    "language": "English, Malaysia",
+    "editorCode": "enmy",
+    "crowdinLanguageCode": "en-MY"
+  },
+  "en-NZ": {
+    "language": "English, New Zealand",
+    "editorCode": "ennz",
+    "crowdinLanguageCode": "en-NZ"
+  },
+  "en-NO": {
+    "language": "English, Norway",
+    "editorCode": "enno",
+    "crowdinLanguageCode": "en-NO"
+  },
+  "en-PH": {
+    "language": "English, Philippines",
+    "editorCode": "enph",
+    "crowdinLanguageCode": "en-PH"
+  },
+  "en-PR": {
+    "language": "English, Puerto Rico",
+    "editorCode": "enpr",
+    "crowdinLanguageCode": "en-PR"
+  },
+  "en-SG": {
+    "language": "English, Singapore",
+    "editorCode": "ensg",
+    "crowdinLanguageCode": "en-SG"
+  },
+  "en-ZA": {
+    "language": "English, South Africa",
+    "editorCode": "enza",
+    "crowdinLanguageCode": "en-ZA"
+  },
+  "en-SE": {
+    "language": "English, Sweden",
+    "editorCode": "ense",
+    "crowdinLanguageCode": "en-SE"
+  },
+  "en-GB": {
+    "language": "English, United Kingdom",
+    "editorCode": "engb",
+    "crowdinLanguageCode": "en-GB"
+  },
+  "en-US": {
+    "language": "English, United States",
+    "editorCode": "enus",
+    "crowdinLanguageCode": "en-US"
+  },
+  "en-ZW": {
+    "language": "English, Zimbabwe",
+    "editorCode": "enzw",
+    "crowdinLanguageCode": "en-ZW"
+  },
+  "eo": {
+    "language": "Esperanto",
+    "editorCode": "eo",
+    "crowdinLanguageCode": "eo"
+  },
+  "et": {
+    "language": "Estonian",
+    "editorCode": "et",
+    "crowdinLanguageCode": "et"
+  },
+  "ee": {
+    "language": "Ewe",
+    "editorCode": "ee",
+    "crowdinLanguageCode": "ee"
+  },
+  "fo": {
+    "language": "Faroese",
+    "editorCode": "fo",
+    "crowdinLanguageCode": "fo"
+  },
+  "fj": {
+    "language": "Fijian",
+    "editorCode": "fj",
+    "crowdinLanguageCode": "fj"
+  },
+  "fil": {
+    "language": "Filipino",
+    "editorCode": "fil",
+    "crowdinLanguageCode": "fil"
+  },
+  "fi": {
+    "language": "Finnish",
+    "editorCode": "fi",
+    "crowdinLanguageCode": "fi"
+  },
+  "vls-BE": {
+    "language": "Flemish",
+    "editorCode": "vlsbe",
+    "crowdinLanguageCode": "vls-BE"
+  },
+  "fra-DE": {
+    "language": "Franconian",
+    "editorCode": "frade",
+    "crowdinLanguageCode": "fra-DE"
+  },
+  "fr": {
+    "language": "French",
+    "editorCode": "fr",
+    "crowdinLanguageCode": "fr"
+  },
+  "fr-BE": {
+    "language": "French, Belgium",
+    "editorCode": "frbe",
+    "crowdinLanguageCode": "fr-BE"
+  },
+  "fr-CA": {
+    "language": "French, Canada",
+    "editorCode": "frca",
+    "crowdinLanguageCode": "fr-CA"
+  },
+  "fr-LU": {
+    "language": "French, Luxembourg",
+    "editorCode": "frlu",
+    "crowdinLanguageCode": "fr-LU"
+  },
+  "fr-QC": {
+    "language": "French, Quebec",
+    "editorCode": "frqc",
+    "crowdinLanguageCode": "fr-QC"
+  },
+  "fr-CH": {
+    "language": "French, Switzerland",
+    "editorCode": "frch",
+    "crowdinLanguageCode": "fr-CH"
+  },
+  "fy-NL": {
+    "language": "Frisian",
+    "editorCode": "fy",
+    "crowdinLanguageCode": "fy-NL"
+  },
+  "fur-IT": {
+    "language": "Friulian",
+    "editorCode": "furit",
+    "crowdinLanguageCode": "fur-IT"
+  },
+  "ff": {
+    "language": "Fula",
+    "editorCode": "ff",
+    "crowdinLanguageCode": "ff"
+  },
+  "gaa": {
+    "language": "Ga",
+    "editorCode": "gaa",
+    "crowdinLanguageCode": "gaa"
+  },
+  "gl": {
+    "language": "Galician",
+    "editorCode": "gl",
+    "crowdinLanguageCode": "gl"
+  },
+  "ka": {
+    "language": "Georgian",
+    "editorCode": "ka",
+    "crowdinLanguageCode": "ka"
+  },
+  "de": {
+    "language": "German",
+    "editorCode": "de",
+    "crowdinLanguageCode": "de"
+  },
+  "de-AT": {
+    "language": "German, Austria",
+    "editorCode": "deat",
+    "crowdinLanguageCode": "de-AT"
+  },
+  "de-BE": {
+    "language": "German, Belgium",
+    "editorCode": "debe",
+    "crowdinLanguageCode": "de-BE"
+  },
+  "de-LI": {
+    "language": "German, Liechtenstein",
+    "editorCode": "deli",
+    "crowdinLanguageCode": "de-LI"
+  },
+  "de-LU": {
+    "language": "German, Luxembourg",
+    "editorCode": "delu",
+    "crowdinLanguageCode": "de-LU"
+  },
+  "de-CH": {
+    "language": "German, Switzerland",
+    "editorCode": "dech",
+    "crowdinLanguageCode": "de-CH"
+  },
+  "en-git": {
+    "language": "GitHub Language",
+    "editorCode": "engit",
+    "crowdinLanguageCode": "en-git"
+  },
+  "got": {
+    "language": "Gothic",
+    "editorCode": "got",
+    "crowdinLanguageCode": "got"
+  },
+  "el": {
+    "language": "Greek",
+    "editorCode": "el",
+    "crowdinLanguageCode": "el"
+  },
+  "el-CY": {
+    "language": "Greek, Cyprus",
+    "editorCode": "elcy",
+    "crowdinLanguageCode": "el-CY"
+  },
+  "kl": {
+    "language": "Greenlandic",
+    "editorCode": "kl",
+    "crowdinLanguageCode": "kl"
+  },
+  "gn": {
+    "language": "Guarani",
+    "editorCode": "gn",
+    "crowdinLanguageCode": "gn"
+  },
+  "gu-IN": {
+    "language": "Gujarati",
+    "editorCode": "gu",
+    "crowdinLanguageCode": "gu-IN"
+  },
+  "ht": {
+    "language": "Haitian Creole",
+    "editorCode": "ht",
+    "crowdinLanguageCode": "ht"
+  },
+  "ha": {
+    "language": "Hausa",
+    "editorCode": "ha",
+    "crowdinLanguageCode": "ha"
+  },
+  "haw": {
+    "language": "Hawaiian",
+    "editorCode": "haw",
+    "crowdinLanguageCode": "haw"
+  },
+  "he": {
+    "language": "Hebrew",
+    "editorCode": "he",
+    "crowdinLanguageCode": "he"
+  },
+  "hz": {
+    "language": "Herero",
+    "editorCode": "hz",
+    "crowdinLanguageCode": "hz"
+  },
+  "hil": {
+    "language": "Hiligaynon",
+    "editorCode": "hil",
+    "crowdinLanguageCode": "hil"
+  },
+  "hi": {
+    "language": "Hindi",
+    "editorCode": "hi",
+    "crowdinLanguageCode": "hi"
+  },
+  "ho": {
+    "language": "Hiri Motu",
+    "editorCode": "ho",
+    "crowdinLanguageCode": "ho"
+  },
+  "hmn": {
+    "language": "Hmong",
+    "editorCode": "hmn",
+    "crowdinLanguageCode": "hmn"
+  },
+  "hu": {
+    "language": "Hungarian",
+    "editorCode": "hu",
+    "crowdinLanguageCode": "hu"
+  },
+  "is": {
+    "language": "Icelandic",
+    "editorCode": "is",
+    "crowdinLanguageCode": "is"
+  },
+  "ido": {
+    "language": "Ido",
+    "editorCode": "ido",
+    "crowdinLanguageCode": "ido"
+  },
+  "ig": {
+    "language": "Igbo",
+    "editorCode": "ig",
+    "crowdinLanguageCode": "ig"
+  },
+  "ilo": {
+    "language": "Ilokano",
+    "editorCode": "ilo",
+    "crowdinLanguageCode": "ilo"
+  },
+  "id": {
+    "language": "Indonesian",
+    "editorCode": "id",
+    "crowdinLanguageCode": "id"
+  },
+  "iu": {
+    "language": "Inuktitut",
+    "editorCode": "iu",
+    "crowdinLanguageCode": "iu"
+  },
+  "ga-IE": {
+    "language": "Irish",
+    "editorCode": "ga",
+    "crowdinLanguageCode": "ga-IE"
+  },
+  "it": {
+    "language": "Italian",
+    "editorCode": "it",
+    "crowdinLanguageCode": "it"
+  },
+  "it-CH": {
+    "language": "Italian, Switzerland",
+    "editorCode": "itch",
+    "crowdinLanguageCode": "it-CH"
+  },
+  "ja": {
+    "language": "Japanese",
+    "editorCode": "ja",
+    "crowdinLanguageCode": "ja"
+  },
+  "jv": {
+    "language": "Javanese",
+    "editorCode": "jv",
+    "crowdinLanguageCode": "jv"
+  },
+  "quc": {
+    "language": "K'iche'",
+    "editorCode": "quc",
+    "crowdinLanguageCode": "quc"
+  },
+  "kab": {
+    "language": "Kabyle",
+    "editorCode": "kab",
+    "crowdinLanguageCode": "kab"
+  },
+  "kn": {
+    "language": "Kannada",
+    "editorCode": "kn",
+    "crowdinLanguageCode": "kn"
+  },
+  "pam": {
+    "language": "Kapampangan",
+    "editorCode": "pam",
+    "crowdinLanguageCode": "pam"
+  },
+  "ks": {
+    "language": "Kashmiri",
+    "editorCode": "ks",
+    "crowdinLanguageCode": "ks"
+  },
+  "ks-PK": {
+    "language": "Kashmiri, Pakistan",
+    "editorCode": "kspk",
+    "crowdinLanguageCode": "ks-PK"
+  },
+  "csb": {
+    "language": "Kashubian",
+    "editorCode": "csb",
+    "crowdinLanguageCode": "csb"
+  },
+  "kk": {
+    "language": "Kazakh",
+    "editorCode": "kk",
+    "crowdinLanguageCode": "kk"
+  },
+  "km": {
+    "language": "Khmer",
+    "editorCode": "km",
+    "crowdinLanguageCode": "km"
+  },
+  "rw": {
+    "language": "Kinyarwanda",
+    "editorCode": "rw",
+    "crowdinLanguageCode": "rw"
+  },
+  "tlh-AA": {
+    "language": "Klingon",
+    "editorCode": "tlhaa",
+    "crowdinLanguageCode": "tlh-AA"
+  },
+  "kv": {
+    "language": "Komi",
+    "editorCode": "kv",
+    "crowdinLanguageCode": "kv"
+  },
+  "kg": {
+    "language": "Kongo",
+    "editorCode": "kg",
+    "crowdinLanguageCode": "kg"
+  },
+  "kok": {
+    "language": "Konkani",
+    "editorCode": "kok",
+    "crowdinLanguageCode": "kok"
+  },
+  "ko": {
+    "language": "Korean",
+    "editorCode": "ko",
+    "crowdinLanguageCode": "ko"
+  },
+  "ku": {
+    "language": "Kurdish",
+    "editorCode": "ku",
+    "crowdinLanguageCode": "ku"
+  },
+  "kmr": {
+    "language": "Kurmanji (Kurdish)",
+    "editorCode": "kmr",
+    "crowdinLanguageCode": "kmr"
+  },
+  "kj": {
+    "language": "Kwanyama",
+    "editorCode": "kj",
+    "crowdinLanguageCode": "kj"
+  },
+  "ky": {
+    "language": "Kyrgyz",
+    "editorCode": "ky",
+    "crowdinLanguageCode": "ky"
+  },
+  "lol": {
+    "language": "Lao",
+    "editorCode": "lo",
+    "crowdinLanguageCode": "lol"
+  },
+  "lo": {
+    "language": "Latin",
+    "editorCode": "lala",
+    "crowdinLanguageCode": "lo"
+  },
+  "la-LA": {
+    "language": "Latvian",
+    "editorCode": "lv",
+    "crowdinLanguageCode": "la-LA"
+  },
+  "lv": {
+    "language": "Ligurian",
+    "editorCode": "lij",
+    "crowdinLanguageCode": "lv"
+  },
+  "lij": {
+    "language": "Limburgish",
+    "editorCode": "li",
+    "crowdinLanguageCode": "lij"
+  },
+  "li": {
+    "language": "Lingala",
+    "editorCode": "ln",
+    "crowdinLanguageCode": "li"
+  },
+  "ln": {
+    "language": "Lithuanian",
+    "editorCode": "lt",
+    "crowdinLanguageCode": "ln"
+  },
+  "lt": {
+    "language": "Lojban",
+    "editorCode": "jbo",
+    "crowdinLanguageCode": "lt"
+  },
+  "jbo": {
+    "language": "LOLCAT",
+    "editorCode": "lol",
+    "crowdinLanguageCode": "jbo"
+  },
+  "nds": {
+    "language": "Low German",
+    "editorCode": "nds",
+    "crowdinLanguageCode": "nds"
+  },
+  "dsb-DE": {
+    "language": "Lower Sorbian",
+    "editorCode": "dsbde",
+    "crowdinLanguageCode": "dsb-DE"
+  },
+  "lg": {
+    "language": "Luganda",
+    "editorCode": "lg",
+    "crowdinLanguageCode": "lg"
+  },
+  "luy": {
+    "language": "Luhya",
+    "editorCode": "luy",
+    "crowdinLanguageCode": "luy"
+  },
+  "lb": {
+    "language": "Luxembourgish",
+    "editorCode": "lb",
+    "crowdinLanguageCode": "lb"
+  },
+  "mk": {
+    "language": "Macedonian",
+    "editorCode": "mk",
+    "crowdinLanguageCode": "mk"
+  },
+  "mai": {
+    "language": "Maithili",
+    "editorCode": "mai",
+    "crowdinLanguageCode": "mai"
+  },
+  "mg": {
+    "language": "Malagasy",
+    "editorCode": "mg",
+    "crowdinLanguageCode": "mg"
+  },
+  "ms": {
+    "language": "Malay",
+    "editorCode": "ms",
+    "crowdinLanguageCode": "ms"
+  },
+  "ms-BN": {
+    "language": "Malay, Brunei",
+    "editorCode": "msbn",
+    "crowdinLanguageCode": "ms-BN"
+  },
+  "ml-IN": {
+    "language": "Malayalam",
+    "editorCode": "mlin",
+    "crowdinLanguageCode": "ml-IN"
+  },
+  "mt": {
+    "language": "Maltese",
+    "editorCode": "mt",
+    "crowdinLanguageCode": "mt"
+  },
+  "gv": {
+    "language": "Manx",
+    "editorCode": "gv",
+    "crowdinLanguageCode": "gv"
+  },
+  "mi": {
+    "language": "Maori",
+    "editorCode": "mi",
+    "crowdinLanguageCode": "mi"
+  },
+  "arn": {
+    "language": "Mapudungun",
+    "editorCode": "arn",
+    "crowdinLanguageCode": "arn"
+  },
+  "mr": {
+    "language": "Marathi",
+    "editorCode": "mr",
+    "crowdinLanguageCode": "mr"
+  },
+  "mh": {
+    "language": "Marshallese",
+    "editorCode": "mh",
+    "crowdinLanguageCode": "mh"
+  },
+  "moh": {
+    "language": "Mohawk",
+    "editorCode": "moh",
+    "crowdinLanguageCode": "moh"
+  },
+  "mn": {
+    "language": "Mongolian",
+    "editorCode": "mn",
+    "crowdinLanguageCode": "mn"
+  },
+  "sr-Cyrl-ME": {
+    "language": "Montenegrin (Cyrillic)",
+    "editorCode": "srcyrlme",
+    "crowdinLanguageCode": "sr-Cyrl-ME"
+  },
+  "me": {
+    "language": "Montenegrin (Latin)",
+    "editorCode": "me",
+    "crowdinLanguageCode": "me"
+  },
+  "mos": {
+    "language": "Mossi",
+    "editorCode": "mos",
+    "crowdinLanguageCode": "mos"
+  },
+  "na": {
+    "language": "Nauru",
+    "editorCode": "na",
+    "crowdinLanguageCode": "na"
+  },
+  "ng": {
+    "language": "Ndonga",
+    "editorCode": "ng",
+    "crowdinLanguageCode": "ng"
+  },
+  "ne-NP": {
+    "language": "Nepali",
+    "editorCode": "nenp",
+    "crowdinLanguageCode": "ne-NP"
+  },
+  "ne-IN": {
+    "language": "Nepali, India",
+    "editorCode": "nein",
+    "crowdinLanguageCode": "ne-IN"
+  },
+  "pcm": {
+    "language": "Nigerian Pidgin",
+    "editorCode": "pcm",
+    "crowdinLanguageCode": "pcm"
+  },
+  "se": {
+    "language": "Northern Sami",
+    "editorCode": "se",
+    "crowdinLanguageCode": "se"
+  },
+  "nso": {
+    "language": "Northern Sotho",
+    "editorCode": "nso",
+    "crowdinLanguageCode": "nso"
+  },
+  "no": {
+    "language": "Norwegian",
+    "editorCode": "no",
+    "crowdinLanguageCode": "no"
+  },
+  "nb": {
+    "language": "Norwegian Bokmal",
+    "editorCode": "nb",
+    "crowdinLanguageCode": "nb"
+  },
+  "nn-NO": {
+    "language": "Norwegian Nynorsk",
+    "editorCode": "nnno",
+    "crowdinLanguageCode": "nn-NO"
+  },
+  "oc": {
+    "language": "Occitan",
+    "editorCode": "oc",
+    "crowdinLanguageCode": "oc"
+  },
+  "oj": {
+    "language": "Ojibwe",
+    "editorCode": "oj",
+    "crowdinLanguageCode": "oj"
+  },
+  "or": {
+    "language": "Oriya",
+    "editorCode": "or",
+    "crowdinLanguageCode": "or"
+  },
+  "om": {
+    "language": "Oromo",
+    "editorCode": "om",
+    "crowdinLanguageCode": "om"
+  },
+  "os": {
+    "language": "Ossetian",
+    "editorCode": "os",
+    "crowdinLanguageCode": "os"
+  },
+  "pi": {
+    "language": "Pali",
+    "editorCode": "pi",
+    "crowdinLanguageCode": "pi"
+  },
+  "pap": {
+    "language": "Papiamento",
+    "editorCode": "pap",
+    "crowdinLanguageCode": "pap"
+  },
+  "ps": {
+    "language": "Pashto",
+    "editorCode": "ps",
+    "crowdinLanguageCode": "ps"
+  },
+  "fa": {
+    "language": "Persian",
+    "editorCode": "fa",
+    "crowdinLanguageCode": "fa"
+  },
+  "en-PT": {
+    "language": "Pirate English",
+    "editorCode": "enpt",
+    "crowdinLanguageCode": "en-PT"
+  },
+  "pl": {
+    "language": "Polish",
+    "editorCode": "pl",
+    "crowdinLanguageCode": "pl"
+  },
+  "pt-PT": {
+    "language": "Portuguese",
+    "editorCode": "pt",
+    "crowdinLanguageCode": "pt-PT"
+  },
+  "pt-BR": {
+    "language": "Portuguese, Brazilian",
+    "editorCode": "ptbr",
+    "crowdinLanguageCode": "pt-BR"
+  },
+  "pa-IN": {
+    "language": "Punjabi",
+    "editorCode": "pain",
+    "crowdinLanguageCode": "pa-IN"
+  },
+  "pa-PK": {
+    "language": "Punjabi, Pakistan",
+    "editorCode": "papk",
+    "crowdinLanguageCode": "pa-PK"
+  },
+  "qu": {
+    "language": "Quechua",
+    "editorCode": "qu",
+    "crowdinLanguageCode": "qu"
+  },
+  "qya-AA": {
+    "language": "Quenya",
+    "editorCode": "qyaaa",
+    "crowdinLanguageCode": "qya-AA"
+  },
+  "ro": {
+    "language": "Romanian",
+    "editorCode": "ro",
+    "crowdinLanguageCode": "ro"
+  },
+  "rm-CH": {
+    "language": "Romansh",
+    "editorCode": "rmch",
+    "crowdinLanguageCode": "rm-CH"
+  },
+  "rn": {
+    "language": "Rundi",
+    "editorCode": "rn",
+    "crowdinLanguageCode": "rn"
+  },
+  "ru": {
+    "language": "Russian",
+    "editorCode": "ru",
+    "crowdinLanguageCode": "ru"
+  },
+  "ru-pr": {
+    "language": "Russian (Proofreading)",
+    "editorCode": "rupr",
+    "crowdinLanguageCode": "ru-pr"
+  },
+  "ru-BY": {
+    "language": "Russian, Belarus",
+    "editorCode": "ruby",
+    "crowdinLanguageCode": "ru-BY"
+  },
+  "ru-MD": {
+    "language": "Russian, Moldova",
+    "editorCode": "rumd",
+    "crowdinLanguageCode": "ru-MD"
+  },
+  "ru-UA": {
+    "language": "Russian, Ukraine",
+    "editorCode": "ruua",
+    "crowdinLanguageCode": "ru-UA"
+  },
+  "ry-UA": {
+    "language": "Rusyn",
+    "editorCode": "ryua",
+    "crowdinLanguageCode": "ry-UA"
+  },
+  "sah": {
+    "language": "Sakha",
+    "editorCode": "sah",
+    "crowdinLanguageCode": "sah"
+  },
+  "sg": {
+    "language": "Sango",
+    "editorCode": "sg",
+    "crowdinLanguageCode": "sg"
+  },
+  "sa": {
+    "language": "Sanskrit",
+    "editorCode": "sa",
+    "crowdinLanguageCode": "sa"
+  },
+  "sat": {
+    "language": "Santali",
+    "editorCode": "sat",
+    "crowdinLanguageCode": "sat"
+  },
+  "sc": {
+    "language": "Sardinian",
+    "editorCode": "sc",
+    "crowdinLanguageCode": "sc"
+  },
+  "sco": {
+    "language": "Scots",
+    "editorCode": "sco",
+    "crowdinLanguageCode": "sco"
+  },
+  "gd": {
+    "language": "Scottish Gaelic",
+    "editorCode": "gd",
+    "crowdinLanguageCode": "gd"
+  },
+  "sr": {
+    "language": "Serbian (Cyrillic)",
+    "editorCode": "sr",
+    "crowdinLanguageCode": "sr"
+  },
+  "sr-CS": {
+    "language": "Serbian (Latin)",
+    "editorCode": "srcs",
+    "crowdinLanguageCode": "sr-CS"
+  },
+  "sh": {
+    "language": "Serbo-Croatian",
+    "editorCode": "sh",
+    "crowdinLanguageCode": "sh"
+  },
+  "crs": {
+    "language": "Seychellois Creole",
+    "editorCode": "crs",
+    "crowdinLanguageCode": "crs"
+  },
+  "sn": {
+    "language": "Shona",
+    "editorCode": "sn",
+    "crowdinLanguageCode": "sn"
+  },
+  "ii": {
+    "language": "Sichuan Yi",
+    "editorCode": "ii",
+    "crowdinLanguageCode": "ii"
+  },
+  "sd": {
+    "language": "Sindhi",
+    "editorCode": "sd",
+    "crowdinLanguageCode": "sd"
+  },
+  "si-LK": {
+    "language": "Sinhala",
+    "editorCode": "silk",
+    "crowdinLanguageCode": "si-LK"
+  },
+  "sk": {
+    "language": "Slovak",
+    "editorCode": "sk",
+    "crowdinLanguageCode": "sk"
+  },
+  "sl": {
+    "language": "Slovenian",
+    "editorCode": "sl",
+    "crowdinLanguageCode": "sl"
+  },
+  "so": {
+    "language": "Somali",
+    "editorCode": "so",
+    "crowdinLanguageCode": "so"
+  },
+  "son": {
+    "language": "Songhay",
+    "editorCode": "son",
+    "crowdinLanguageCode": "son"
+  },
+  "ckb": {
+    "language": "Sorani (Kurdish)",
+    "editorCode": "ckb",
+    "crowdinLanguageCode": "ckb"
+  },
+  "nr": {
+    "language": "Southern Ndebele",
+    "editorCode": "nr",
+    "crowdinLanguageCode": "nr"
+  },
+  "sma": {
+    "language": "Southern Sami",
+    "editorCode": "sma",
+    "crowdinLanguageCode": "sma"
+  },
+  "st": {
+    "language": "Southern Sotho",
+    "editorCode": "st",
+    "crowdinLanguageCode": "st"
+  },
+  "es-ES": {
+    "language": "Spanish",
+    "editorCode": "es",
+    "crowdinLanguageCode": "es-ES"
+  },
+  "es-EM": {
+    "language": "Spanish (Modern)",
+    "editorCode": "esem",
+    "crowdinLanguageCode": "es-EM"
+  },
+  "es-AR": {
+    "language": "Spanish, Argentina",
+    "editorCode": "esar",
+    "crowdinLanguageCode": "es-AR"
+  },
+  "es-BO": {
+    "language": "Spanish, Bolivia",
+    "editorCode": "esbo",
+    "crowdinLanguageCode": "es-BO"
+  },
+  "es-CL": {
+    "language": "Spanish, Chile",
+    "editorCode": "escl",
+    "crowdinLanguageCode": "es-CL"
+  },
+  "es-CO": {
+    "language": "Spanish, Colombia",
+    "editorCode": "esco",
+    "crowdinLanguageCode": "es-CO"
+  },
+  "es-CR": {
+    "language": "Spanish, Costa Rica",
+    "editorCode": "escr",
+    "crowdinLanguageCode": "es-CR"
+  },
+  "es-cu": {
+    "language": "Spanish, Cuba",
+    "editorCode": "escu",
+    "crowdinLanguageCode": "es-cu"
+  },
+  "es-DO": {
+    "language": "Spanish, Dominican Republic",
+    "editorCode": "esdo",
+    "crowdinLanguageCode": "es-DO"
+  },
+  "es-EC": {
+    "language": "Spanish, Ecuador",
+    "editorCode": "esec",
+    "crowdinLanguageCode": "es-EC"
+  },
+  "es-SV": {
+    "language": "Spanish, El Salvador",
+    "editorCode": "essv",
+    "crowdinLanguageCode": "es-SV"
+  },
+  "es-GT": {
+    "language": "Spanish, Guatemala",
+    "editorCode": "esgt",
+    "crowdinLanguageCode": "es-GT"
+  },
+  "es-HN": {
+    "language": "Spanish, Honduras",
+    "editorCode": "eshn",
+    "crowdinLanguageCode": "es-HN"
+  },
+  "es-MX": {
+    "language": "Spanish, Mexico",
+    "editorCode": "esmx",
+    "crowdinLanguageCode": "es-MX"
+  },
+  "es-NI": {
+    "language": "Spanish, Nicaragua",
+    "editorCode": "esni",
+    "crowdinLanguageCode": "es-NI"
+  },
+  "es-PA": {
+    "language": "Spanish, Panama",
+    "editorCode": "espa",
+    "crowdinLanguageCode": "es-PA"
+  },
+  "es-PY": {
+    "language": "Spanish, Paraguay",
+    "editorCode": "espy",
+    "crowdinLanguageCode": "es-PY"
+  },
+  "es-PE": {
+    "language": "Spanish, Peru",
+    "editorCode": "espe",
+    "crowdinLanguageCode": "es-PE"
+  },
+  "es-PR": {
+    "language": "Spanish, Puerto Rico",
+    "editorCode": "espr",
+    "crowdinLanguageCode": "es-PR"
+  },
+  "es-US": {
+    "language": "Spanish, United States",
+    "editorCode": "esus",
+    "crowdinLanguageCode": "es-US"
+  },
+  "es-UY": {
+    "language": "Spanish, Uruguay",
+    "editorCode": "esuy",
+    "crowdinLanguageCode": "es-UY"
+  },
+  "es-VE": {
+    "language": "Spanish, Venezuela",
+    "editorCode": "esve",
+    "crowdinLanguageCode": "es-VE"
+  },
+  "su": {
+    "language": "Sundanese",
+    "editorCode": "su",
+    "crowdinLanguageCode": "su"
+  },
+  "sw": {
+    "language": "Swahili",
+    "editorCode": "sw",
+    "crowdinLanguageCode": "sw"
+  },
+  "sw-KE": {
+    "language": "Swahili, Kenya",
+    "editorCode": "swke",
+    "crowdinLanguageCode": "sw-KE"
+  },
+  "sw-TZ": {
+    "language": "Swahili, Tanzania",
+    "editorCode": "swtz",
+    "crowdinLanguageCode": "sw-TZ"
+  },
+  "ss": {
+    "language": "Swati",
+    "editorCode": "ss",
+    "crowdinLanguageCode": "ss"
+  },
+  "sv-SE": {
+    "language": "Swedish",
+    "editorCode": "sv",
+    "crowdinLanguageCode": "sv-SE"
+  },
+  "svun": {
+    "language": "Swedish (Unofficial)",
+    "editorCode": "svun",
+    "crowdinLanguageCode": "svun"
+  },
+  "sv-FI": {
+    "language": "Swedish, Finland",
+    "editorCode": "svfi",
+    "crowdinLanguageCode": "sv-FI"
+  },
+  "syc": {
+    "language": "Syriac",
+    "editorCode": "syc",
+    "crowdinLanguageCode": "syc"
+  },
+  "tl": {
+    "language": "Tagalog",
+    "editorCode": "tl",
+    "crowdinLanguageCode": "tl"
+  },
+  "ty": {
+    "language": "Tahitian",
+    "editorCode": "ty",
+    "crowdinLanguageCode": "ty"
+  },
+  "tg": {
+    "language": "Tajik",
+    "editorCode": "tg",
+    "crowdinLanguageCode": "tg"
+  },
+  "tzl": {
+    "language": "Talossan",
+    "editorCode": "tzl",
+    "crowdinLanguageCode": "tzl"
+  },
+  "ta": {
+    "language": "Tamil",
+    "editorCode": "ta",
+    "crowdinLanguageCode": "ta"
+  },
+  "tt-RU": {
+    "language": "Tatar",
+    "editorCode": "ttru",
+    "crowdinLanguageCode": "tt-RU"
+  },
+  "te": {
+    "language": "Telugu",
+    "editorCode": "te",
+    "crowdinLanguageCode": "te"
+  },
+  "kdh": {
+    "language": "Tem (Kotokoli)",
+    "editorCode": "kdh",
+    "crowdinLanguageCode": "kdh"
+  },
+  "th": {
+    "language": "Thai",
+    "editorCode": "th",
+    "crowdinLanguageCode": "th"
+  },
+  "bo-BT": {
+    "language": "Tibetan",
+    "editorCode": "bobt",
+    "crowdinLanguageCode": "bo-BT"
+  },
+  "ti": {
+    "language": "Tigrinya",
+    "editorCode": "ti",
+    "crowdinLanguageCode": "ti"
+  },
+  "ts": {
+    "language": "Tsonga",
+    "editorCode": "ts",
+    "crowdinLanguageCode": "ts"
+  },
+  "tn": {
+    "language": "Tswana",
+    "editorCode": "tn",
+    "crowdinLanguageCode": "tn"
+  },
+  "tr": {
+    "language": "Turkish",
+    "editorCode": "tr",
+    "crowdinLanguageCode": "tr"
+  },
+  "tr-CY": {
+    "language": "Turkish, Cyprus",
+    "editorCode": "trcy",
+    "crowdinLanguageCode": "tr-CY"
+  },
+  "tk": {
+    "language": "Turkmen",
+    "editorCode": "tk",
+    "crowdinLanguageCode": "tk"
+  },
+  "uk": {
+    "language": "Ukrainian",
+    "editorCode": "uk",
+    "crowdinLanguageCode": "uk"
+  },
+  "hsb-DE": {
+    "language": "Upper Sorbian",
+    "editorCode": "hsbde",
+    "crowdinLanguageCode": "hsb-DE"
+  },
+  "ur-IN": {
+    "language": "Urdu (India)",
+    "editorCode": "urin",
+    "crowdinLanguageCode": "ur-IN"
+  },
+  "ur-PK": {
+    "language": "Urdu (Pakistan)",
+    "editorCode": "urpk",
+    "crowdinLanguageCode": "ur-PK"
+  },
+  "ug": {
+    "language": "Uyghur",
+    "editorCode": "ug",
+    "crowdinLanguageCode": "ug"
+  },
+  "uz": {
+    "language": "Uzbek",
+    "editorCode": "uz",
+    "crowdinLanguageCode": "uz"
+  },
+  "val-ES": {
+    "language": "Valencian",
+    "editorCode": "vales",
+    "crowdinLanguageCode": "val-ES"
+  },
+  "ve": {
+    "language": "Venda",
+    "editorCode": "ve",
+    "crowdinLanguageCode": "ve"
+  },
+  "vec": {
+    "language": "Venetian",
+    "editorCode": "vec",
+    "crowdinLanguageCode": "vec"
+  },
+  "vi": {
+    "language": "Vietnamese",
+    "editorCode": "vi",
+    "crowdinLanguageCode": "vi"
+  },
+  "wa": {
+    "language": "Walloon",
+    "editorCode": "wa",
+    "crowdinLanguageCode": "wa"
+  },
+  "cy": {
+    "language": "Welsh",
+    "editorCode": "cy",
+    "crowdinLanguageCode": "cy"
+  },
+  "wo": {
+    "language": "Wolof",
+    "editorCode": "wo",
+    "crowdinLanguageCode": "wo"
+  },
+  "xh": {
+    "language": "Xhosa",
+    "editorCode": "xh",
+    "crowdinLanguageCode": "xh"
+  },
+  "yi": {
+    "language": "Yiddish",
+    "editorCode": "yi",
+    "crowdinLanguageCode": "yi"
+  },
+  "yo": {
+    "language": "Yoruba",
+    "editorCode": "yo",
+    "crowdinLanguageCode": "yo"
+  },
+  "zea": {
+    "language": "Zeelandic",
+    "editorCode": "zea",
+    "crowdinLanguageCode": "zea"
+  },
+  "zu": {
+    "language": "Zulu",
+    "editorCode": "zu",
+    "crowdinLanguageCode": "zu"
+  }
+}
